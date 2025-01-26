@@ -95,15 +95,14 @@ hr {
 }
 
 pre{
-    /* width: 408px; */
+    width: 400px;
 }
-
 
 @media (max-width: 1150px) {
     .L{margin-right: 0px;}
     .R{margin-left: 0px;}
     .card{width: 300px;}
-    pre{border-radius: 0px !important;}
+    pre{border-radius: 0px !important; width: 268px !important;}
 }
 
 .ani-title{
